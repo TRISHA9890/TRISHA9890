@@ -41,7 +41,7 @@ I enjoy solving problems and learning new technologies.
 <h2>📄 Resume</h2>
 
 <p>
-<a href="ADD_YOUR_PUBLIC_RESUME_LINK_HERE" target="_blank">
+<a href="file:///C:/Users/tshet/Downloads/Trisha_Resume.pdf" target="_blank">
 <img src="https://img.shields.io/badge/View-My%20Resume-green?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 </p>
@@ -76,6 +76,9 @@ I enjoy solving problems and learning new technologies.
   <a href="https://github.com/TRISHA9890/Calculator-site" target="_blank">View Project</a></li>
 
   <li><b>Music Player App</b> – 
+  <a href="https://github.com/TRISHA9890/App" target="_blank">View Project</a></li>
+</ul>
+ <li><b>Old Age Home Full Stack</b> – 
   <a href="https://github.com/TRISHA9890/App" target="_blank">View Project</a></li>
 </ul>
 
