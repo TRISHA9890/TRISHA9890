@@ -3,7 +3,7 @@
 <p>
 A passionate Frontend Developer from India 🇮🇳 <br>
 Computer Science Engineering student focused on building real-world applications. 
-I enjoy solving problems, learning new technologies, and turning ideas into projects.
+I enjoy solving problems and learning new technologies.
 </p>
 
 <h2>🌐 Connect With Me</h2>
@@ -21,7 +21,7 @@ I enjoy solving problems, learning new technologies, and turning ideas into proj
 <h2>📄 Resume</h2>
 
 <p>
-<a href="file:///C:/Users/tshet/Downloads/resume/shettytrisharesume.pdf" target="_blank">
+<a href="ADD_YOUR_PUBLIC_RESUME_LINK_HERE" target="_blank">
 <img src="https://img.shields.io/badge/View-My%20Resume-green?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 </p>
@@ -34,42 +34,30 @@ I enjoy solving problems, learning new technologies, and turning ideas into proj
 </a>
 </p>
 
-<h2>🚀 Languages and Tools I Use</h2>
-
-<p>
-<!-- (Keep your existing tech icons here) -->
-</p>
-
 <h2>📌 Featured Projects</h2>
 
 <ul>
-  <li><b>🌐 Portfolio Website (React)</b> – 
+  <li><b>Portfolio Website (React)</b> – 
   <a href="https://github.com/TRISHA9890/portfoliosreacts" target="_blank">View Project</a></li>
 
-  <li><b>🩸 Blood Management System</b> – 
+  <li><b>Blood Management System</b> – 
   <a href="https://github.com/TRISHA9890/Blood-management-system-" target="_blank">View Project</a></li>
 
-  <li><b>🔐 GSM Door Lock System</b> – 
+  <li><b>GSM Door Lock System</b> – 
   <a href="https://github.com/TRISHA9890/GSM-Based-Door-Lock-System---Arduino-GSM-Module-SIM800L" target="_blank">View Project</a></li>
 
-  <li><b>💎 Jewellery E-Commerce Website</b> – 
+  <li><b>Jewellery E-Commerce Website</b> – 
   <a href="https://github.com/TRISHA9890/Jeweller-E-commerce-Website-" target="_blank">View Project</a></li>
 
-  <li><b>🤖 YOLOv12 Attendance System</b> – 
+  <li><b>YOLOv12 Attendance System</b> – 
   <a href="https://github.com/TRISHA9890/YOLOV12-Student-Attendance-System" target="_blank">View Project</a></li>
 
-  <li><b>🧮 Calculator Web App</b> – 
+  <li><b>Calculator Web App</b> – 
   <a href="https://github.com/TRISHA9890/Calculator-site" target="_blank">View Project</a></li>
 
-  <li><b>📱 Music Player App</b> – 
+  <li><b>Music Player App</b> – 
   <a href="https://github.com/TRISHA9890/App" target="_blank">View Project</a></li>
 </ul>
-  <li><b> Old Age Home App</b> – 
-  <a href="https://github.com/TRISHA9890/App" target="_blank">View Project</a></li>
-</ul>
-<li>Team Lead – Efficient Attendance Monitoring System (PCU IPR 2025)</li>
-  <li>Copyright Recognition & IIC-PCU Appreciation</li>
-  <li>Research Paper – Monitoring & Automated Billing System</li>
 
 <h2>💼 Experience</h2>
 
@@ -92,11 +80,12 @@ I enjoy solving problems, learning new technologies, and turning ideas into proj
 <h2>🏆 Achievements</h2>
 
 <ul>
-
+  <li>Team Lead – Efficient Attendance Monitoring System (PCU IPR 2025)</li>
+  <li>Copyright Recognition & IIC-PCU Appreciation</li>
+  <li>Research Paper – Monitoring & Automated Billing System</li>
   <li>Smart India Hackathon (SIH) Participant</li>
   <li>Project Expo 2k24 – Project Lead</li>
   <li>ACM Volunteer</li>
-  
 </ul>
 
 <h2>📜 Certifications</h2>
