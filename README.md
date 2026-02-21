@@ -1,7 +1,7 @@
 <h1>Hi, I’m Trisha Shetty 👋</h1>
 
 <p>
-A passionate Frontend Developer from India 🇮🇳 <br>
+A passionate Frontend Developer from India <br>
 Computer Science Engineering student focused on building real-world applications. 
 I enjoy solving problems and learning new technologies.
 </p>
