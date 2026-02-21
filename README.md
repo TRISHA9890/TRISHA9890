@@ -64,6 +64,12 @@ I enjoy solving problems, learning new technologies, and turning ideas into proj
   <li><b>📱 Music Player App</b> – 
   <a href="https://github.com/TRISHA9890/App" target="_blank">View Project</a></li>
 </ul>
+  <li><b> Old Age Home App</b> – 
+  <a href="https://github.com/TRISHA9890/App" target="_blank">View Project</a></li>
+</ul>
+<li>Team Lead – Efficient Attendance Monitoring System (PCU IPR 2025)</li>
+  <li>Copyright Recognition & IIC-PCU Appreciation</li>
+  <li>Research Paper – Monitoring & Automated Billing System</li>
 
 <h2>💼 Experience</h2>
 
@@ -86,12 +92,11 @@ I enjoy solving problems, learning new technologies, and turning ideas into proj
 <h2>🏆 Achievements</h2>
 
 <ul>
-  <li>Team Lead – Efficient Attendance Monitoring System (PCU IPR 2025)</li>
-  <li>Copyright Recognition & IIC-PCU Appreciation</li>
+
   <li>Smart India Hackathon (SIH) Participant</li>
   <li>Project Expo 2k24 – Project Lead</li>
   <li>ACM Volunteer</li>
-  <li>Research Paper – Monitoring & Automated Billing System</li>
+  
 </ul>
 
 <h2>📜 Certifications</h2>
