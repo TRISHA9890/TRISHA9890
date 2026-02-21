@@ -49,7 +49,7 @@ I enjoy solving problems and learning new technologies.
 <h2>🌐 My Portfolio</h2>
 
 <p>
-<a href="https://loquacious-hotteok-57f39a.netlify.app/" target="_blank">
+<a href="https://loquacious-hotteok-57f39a.netlify.com/" target="_blank">
 <img src="https://img.shields.io/badge/Visit-My%20Portfolio-ff69b4?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 </p>
