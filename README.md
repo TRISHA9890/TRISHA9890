@@ -41,7 +41,7 @@ I enjoy solving problems and learning new technologies.
 
 
 
-<a href="file:///C:/Users/tshet/Downloads/Trisha_Sresume.pdf" title="View Resume">📄</a>
+<a href="https://drive.google.com/drive/my-drive" title="View Resume">📄</a>
 
 
 ---
