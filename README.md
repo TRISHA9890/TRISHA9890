@@ -41,7 +41,8 @@ I enjoy solving problems and learning new technologies.
 
 
 
-<a href="https://raw.githubusercontent.com/TRISHA9890/REPO_NAME/main/Trisha_Sresume.pdf" target="_blank">📄 Resume</a>
+<a href="file:///C:/Users/tshet/Downloads/Trisha_Sresume.pdf" title="View Resume">📄</a>
+
 
 ---
 
