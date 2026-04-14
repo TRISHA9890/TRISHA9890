@@ -38,7 +38,10 @@ I enjoy solving problems and learning new technologies.
 
 ## Resume
 
-- [View My Resume](#)
+
+
+
+<a href="https://raw.githubusercontent.com/TRISHA9890/REPO_NAME/main/Trisha_Sresume.pdf" target="_blank">📄 Resume</a>
 
 ---
 
