@@ -70,7 +70,8 @@ I enjoy solving problems and learning new technologies.
   <a href="https://github.com/TRISHA9890/Jeweller-E-commerce-Website-" target="_blank">View Project</a></li>
 
   <li><b>YOLOv12 Attendance System</b> – 
-  <a href="https://github.com/TRISHA9890/YOLOV12-Student-Attendance-System" target="_blank">View Project</a></li>
+  <a href="my-projectAIyolov12attendance-system
+" target="_blank">View Project</a></li>
 
   <li><b>Calculator Web App</b> – 
   <a href="https://github.com/TRISHA9890/Calculator-site" target="_blank">View Project</a></li>
